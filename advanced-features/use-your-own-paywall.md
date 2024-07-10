@@ -342,8 +342,6 @@ You can declare your metadata with Your Own Paywall which can be:
 * Image
 * Boolean
 
-These steps are mandatory for Purchasely to compute conversion on your paywall and measure the performance of A/B tests.
-
 {% tabs %}
 {% tab title="Swift" %}
 ```swift
